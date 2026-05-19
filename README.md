@@ -2,7 +2,7 @@
 
 
 <!--
-**21dbwls12/21dbwls12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**27dbwls10/27dbwls10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <br/>
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F21dbwls12%2Fhit-counter&count_bg=%2300E5B2&title_bg=%2307D8FD&icon=github.svg&icon_color=%23000000&title=Hello%21%21&edge_flat=false"/></a>            
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F27dbwls10%2Fhit-counter&count_bg=%2300E5B2&title_bg=%2307D8FD&icon=github.svg&icon_color=%23000000&title=Hello%21%21&edge_flat=false"/></a>            
 <br/>
 <br/>
 <br/>
@@ -64,20 +64,20 @@ Here are some ideas to get you started:
 </a>
 
 <!--
-![Yoojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=21dbwls12&show_icons=true&theme=holi&hide=html)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21dbwls12&layout=compact&theme=holi&hide=html)
+![Yoojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=27dbwls10&show_icons=true&theme=holi&hide=html)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=27dbwls10&layout=compact&theme=holi&hide=html)
 -->
 
 <a href="https://github.com/27dbwls10/github-readme-activity-graph">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=21dbwls12&bg_color=030314&color=5FABEE&line=5FABEE&point=D6E7FF&area_color=06439e&area=true&hide_border=true" width=90%/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=27dbwls10&bg_color=030314&color=5FABEE&line=5FABEE&point=D6E7FF&area_color=06439e&area=true&hide_border=true" width=90%/>
 </a>
 
 <!--
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=21dbwls12&bg_color=030314&color=5FABEE&line=5FABEE&point=D6E7FF&area_color=06439e&area=true&hide_border=true)](https://github.com/21dbwls12/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=27dbwls10&bg_color=030314&color=5FABEE&line=5FABEE&point=D6E7FF&area_color=06439e&area=true&hide_border=true)](https://github.com/27dbwls10/github-readme-activity-graph)
 -->
 
 </div>
 
-![도시불꺼짐가로길게](https://github.com/21dbwls12/21dbwls12/assets/139525941/ed6ca2e3-6007-4cf4-8484-0c13cd4f86d7)
+![도시불꺼짐가로길게](https://github.com/27dbwls10/27dbwls10/assets/139525941/ed6ca2e3-6007-4cf4-8484-0c13cd4f86d7)
 
 <!--
 holi: {
