@@ -51,14 +51,14 @@ Here are some ideas to get you started:
 
 <br/>
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F27dbwls10%2Fhit-counter&count_bg=%2300E5B2&title_bg=%2307D8FD&icon=github.svg&icon_color=%23000000&title=Hello%21%21&edge_flat=false"/></a>            
+<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F27dbwls10%2Fhit-counter&count_bg=%2300E5B2&title_bg=%2307D8FD&icon=github.svg&icon_color=%23000000&title=Hello%21%21&edge_flat=false"/></a>             -->
 <br/>
 <br/>
 <br/>
 
 <a href="https://github.com/27dbwls10/github-readme-stats">
  <img src="https://github-readme-stats.vercel.app/api?username=27dbwls10&show_icons=true&theme=holi&hide_border=true" height=180 align="center/>
-</a>
+</a>  
 <a href="https://github.com/27dbwls10/github-stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27dbwls10&layout=compact&theme=holi&hide=html&hide_border=true" height=180 align="center/>
 </a>
