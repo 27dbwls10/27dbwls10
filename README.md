@@ -56,18 +56,18 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<a href="https://github.com/21dbwls12/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api?username=21dbwls12&show_icons=true&theme=holi&hide_border=true" height=180 align="center/>
+<a href="https://github.com/27dbwls10/github-readme-stats">
+ <img src="https://github-readme-stats.vercel.app/api?username=27dbwls10&show_icons=true&theme=holi&hide_border=true" height=180 align="center/>
 </a>
-<a href="https://github.com/21dbwls12/github-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21dbwls12&layout=compact&theme=holi&hide=html&hide_border=true" height=180 align="center/>
+<a href="https://github.com/27dbwls10/github-stats">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27dbwls10&layout=compact&theme=holi&hide=html&hide_border=true" height=180 align="center/>
 </a>
 
 <!--
 ![Yoojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=21dbwls12&show_icons=true&theme=holi&hide=html)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21dbwls12&layout=compact&theme=holi&hide=html)
 -->
 
-<a href="https://github.com/21dbwls12/github-readme-activity-graph">
+<a href="https://github.com/27dbwls10/github-readme-activity-graph">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=21dbwls12&bg_color=030314&color=5FABEE&line=5FABEE&point=D6E7FF&area_color=06439e&area=true&hide_border=true" width=90%/>
 </a>
 
